@@ -7,15 +7,15 @@ The objective of this project is to learn Swing and jdbc.
 ⸻
 
 ### The Library Management system provides following functionalities:
-Login
-Add a book
-Search a Book based on Book Title
-Search Books based on Category
-Search Books based on Author
-List All Books along with author information
-Issue Book to Student
-List Books issued to Student based on USN number
-List books which are to be returned for current date
+- Login
+- Add a book
+- Search a Book based on Book Title
+- Search Books based on Category
+- Search Books based on Author
+- List All Books along with author information
+- Issue Book to Student
+- List Books issued to Student based on USN number
+- List books which are to be returned for current date
 
 ### Working
 - A user can add book by providing the following information, title, ISBN (Book Number), category and Author information (Author Name and Phone Number)
@@ -25,4 +25,7 @@ List books which are to be returned for current date
 - Also if the book is not in library, the user should be informed about the unavailability of the book.
 
 ### Screenshots
-- Login
+- Login Screen
+  <img width="796" height="486" alt="Login3" src="https://github.com/user-attachments/assets/f2b25f00-b829-4333-bf4b-ac50ce1968b2" />
+
+
