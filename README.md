@@ -48,6 +48,6 @@ The objective of this project is to learn Swing and jdbc.
 
 ### Tools and Technology used
 
-- Programming language → java 8
+- Programming language → java 23
 - Netbeans IDE
   
