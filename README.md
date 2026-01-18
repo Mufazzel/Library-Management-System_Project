@@ -1,4 +1,4 @@
-# Library-Management-System_Project
+# Library_Management_System_Project
 
 A desktop-based Library Management System developed using Java Swing.
 This application helps administrators manage books, students, and book issue/return operations through a simple and user-friendly graphical interface.
