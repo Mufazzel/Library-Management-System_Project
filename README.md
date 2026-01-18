@@ -2,8 +2,7 @@
 
 A desktop-based Library Management System developed using Java Swing.
 This application helps administrators manage books, students, and book issue/return operations through a simple and user-friendly graphical interface.
-
-This project is created for academic and internship submission purposes and demonstrates core Java, GUI programming, and project structuring skills.
+The objective of this project is to learn Swing and jdbc.
 
 ⸻
 
@@ -24,3 +23,6 @@ List books which are to be returned for current date
 - A user can list all books present in the library and also the books issued to the students using their USN number.
 - A book can be issued to a student by first selecting a book from list of books and then selecting the student from the list of partial or complete search result. Also the date of issue is saved while issuing and return date is calculated (i.e. 7 days from issue date).
 - Also if the book is not in library, the user should be informed about the unavailability of the book.
+
+### Screenshots
+- Login
